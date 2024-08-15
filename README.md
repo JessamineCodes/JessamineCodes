@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Jessamine 👋</h1>
-<h3 align="center">🐣 A freshly-hatched full-stack developer from London 🐣</h3>
+<h3 align="center">👩‍💻 Sofware Engineer 👩‍💻</h3>
 
 <h3 align="left">📚 My Origin Story - Bytesize Edition: 📚</h3>
 <p align="left">
